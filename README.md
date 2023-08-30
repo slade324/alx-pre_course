@@ -1,2 +1,1 @@
-# alx-zero_day
-now an alx student
+up_to_date
