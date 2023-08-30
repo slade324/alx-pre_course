@@ -1,2 +1,2 @@
-# alx-pre_course
+# alx-zero_day
 now an alx student
